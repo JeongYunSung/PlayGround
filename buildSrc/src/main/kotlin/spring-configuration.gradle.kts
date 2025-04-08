@@ -1,6 +1,5 @@
 plugins {
         id("kotlin-convention")
-        id("io.spring.dependency-management")
 }
 
 repositories {
